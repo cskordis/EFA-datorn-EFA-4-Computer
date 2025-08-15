@@ -36,7 +36,7 @@ o	Programs are entered via the 8 toggle switches into the computer’s memory.
 
 •	Memory: 128 bytes of ram expandable to 2K or 8K via daughter cards.
 
-•	Power Supply: Likely powered by a low-voltage DC source, suitable for safe home use.
+•	Power Supply: Powered by a 9 volt 1 amp DC source that is regulated to 5 volt.
 
 ## Sources
 
