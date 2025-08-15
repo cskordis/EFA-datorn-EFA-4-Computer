@@ -48,4 +48,26 @@ vdoc.pub: Notes the series’ structure and part 4’s emphasis on a simple micr
 
 Svenska ElektronikForumet: Community discussions on the series’ value and collectibility.
 
+# Reproduction
+
+Whilst this is a reproduction it has optional daughter board addons via edge connectors as that expand the original capability of this 80's era computer.
+
+These addon boards are :
+
+• 2K, 8K Memory (original)
+
+• 32K Ram
+
+• 32K Ram and Rom
+
+• Backplane(4 buffered edge connectors)
+
+• Video using the CDP1861 pixie chip
+
+• Hex keypad
+
+• Auto keyer to load hexadecimal programs
+
+• Protoboard for development
+
 
