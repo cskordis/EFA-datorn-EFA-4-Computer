@@ -48,7 +48,7 @@ vdoc.pub: Notes the series’ structure and part 4’s emphasis on a simple micr
 
 Svenska ElektronikForumet: Community discussions on the series’ value and collectibility.
 
-# Reproduction
+## Reproduction
 
 Whilst this is a reproduction it has optional daughter board addons via edge connectors as that expand the original capability of this 80's era computer.
 
