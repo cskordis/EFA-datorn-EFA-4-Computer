@@ -36,7 +36,7 @@ o	Programs are entered via the 8 toggle switches into the computer’s memory.
 
 •	Processor: RCA CDP1802 8-bit microprocessor.
 
-•	Memory: 128 bytes of ram but can be increased to 2, 8 or 32K by add on daughter cards.
+•	Memory: 128 bytes of ram but could be increased to 2 or 8K by adding on daughter cards.
 
 •	Power Supply: Likely powered by a low-voltage DC source, suitable for safe home use.
 
