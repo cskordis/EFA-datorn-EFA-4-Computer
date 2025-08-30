@@ -56,6 +56,8 @@ These addon boards are :
 
 • 2K, 8K Memory (original)
 
+• 2K, 8K Memory (slim memory chip)
+
 • 32K Ram
 
 • 32K Ram and Rom
@@ -64,9 +66,11 @@ These addon boards are :
 
 • Video using the CDP1861 pixie chip
 
-• Hex keypad
+• Hex keypad with input key
 
 • Auto keyer to load hexadecimal programs
+
+• Address and data hex display board
 
 • Protoboard for development
 
