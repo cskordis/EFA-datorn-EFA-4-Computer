@@ -22,6 +22,8 @@ o	The computer operates at a reduced speed, described as "slow motion," allowing
 
 o	This slow pace enables learners to observe how a CPU fetches, decodes, and executes instructions, making abstract concepts tangible without requiring advanced tools like oscilloscopes.
 
+o Added crystal oscillator at 3.579545 MHz to allow CPU running at 1.79897725 MHz and other capabilities including CDP1861 pixie video
+
 •	Input/Output: 
 
 o	Includes basic I/O interfaces, such as switches or a simple keypad for input and LEDs or a small display for output, typical for educational microcomputers of the era.
