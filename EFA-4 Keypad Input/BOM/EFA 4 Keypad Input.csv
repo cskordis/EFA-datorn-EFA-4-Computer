@@ -9,7 +9,7 @@
 "D2","KEY IND","LED_THT:LED_D5.0mm","~","1",""
 "D3,D5,D6","1N4148","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf","3",""
 "J1","Conn_02x07_Counter_Clockwise","Package_DIP:DIP-14_W7.62mm","~","1",""
-"JP1","Audio On","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","~","1",""
+"J2","External","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~","1",""
 "LS1","Speaker","Buzzer_Beeper:Speaker_CUI_CMR-1206S-67","~","1",""
 "Q1","2N3904","Package_TO_SOT_THT:TO-92_Wide","https://www.onsemi.com/pub/Collateral/2N3903-D.PDF","1",""
 "R1,R2,R3,R4","1K","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~","4",""
